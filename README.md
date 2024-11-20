@@ -6,7 +6,7 @@ This application allows you to add, edit, and delete tasks, which helping you to
    
 ## Technologies used
 
-  - JavaScript
+  - TypeScript
   - React
   - Fetch API
   - CSS
