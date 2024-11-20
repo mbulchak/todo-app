@@ -1,9 +1,43 @@
-# React TypeScript Starter Pack
+# TODO App
 
-To use this template click `Use this template`
+This application allows you to add, edit, and delete tasks, which helping you to manage daily activities
 
-### Available Scripts
+  [LIVE DEMO](https://mbulchak.github.io/todo-app/)
+   
+## Technologies used
 
-`Deploy` - available to deploy your application to gh-pages
+  - JavaScript
+  - React
+  - Fetch API
+  - CSS
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Features
+
+  - You can add new tasks to your todo list
+  - Update tasks with relevant information
+  - Remove tasks that are not needed
+  - You can filter tasks to see only completed or not completed tasks
+  - Here was used fetch API for loading and update information from server 
+
+## Installation
+
+  - Clone repository
+    
+    ```bash
+    git clone https://github.com/mbulchak/todo-app.git
+    ```
+  - Navigate to the project directory
+
+    ```bash
+    cd todo-app
+    ```
+  - Install NPM packages
+
+    ```bash
+    npm install
+    ```
+  - Run project
+
+    ```bash
+    npm start
+    ```
